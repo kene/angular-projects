@@ -1,0 +1,24 @@
+{
+  "bugtracking": [
+    {
+      "issue_name": "Check functionaliy",
+      "issue_message": "Check the functions of buttons in the UI",
+      "id": 3
+    },
+    {
+      "issue_name": "check issues form",
+      "issue_message": "check the issues in the form web",
+      "id": 4
+    },
+    {
+      "issue_name": "Correct the UI",
+      "issue_message": "Correct the container and components UI",
+      "id": 5
+    },
+    {
+      "issue_name": "issue controls check",
+      "issue_message": "check the funcionality of controls UI",
+      "id": 6
+    }
+  ]
+}
